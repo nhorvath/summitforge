@@ -84,7 +84,7 @@ theme = "hugo-creative-theme"
 
     # Portfolio modals
 	[params.portfolio.modal]
-        category = "Category"
+        productLinkText = "See it on Amazon"
         buttonText = "Close"
 
     # Aside section
